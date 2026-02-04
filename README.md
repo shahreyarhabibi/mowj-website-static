@@ -4,7 +4,7 @@ This repository contains a **static HTML/CSS adaptation** of a fully functional 
 
 The project was originally designed and developed in a local **WordPress** environment (XAMPP) using **Elementor** and the **Phlox** theme, then converted into a static site to demonstrate frontend design capabilities, performance optimization, and secure static hosting.
 
-🔗 **[View Live Demo on GitHub Pages](https://your-username.github.io/your-repo-name)**
+🔗 **[View Live Demo on GitHub Pages](https://shahreyarhabibi.github.io/mowj-website-static)**
 
 ---
 
@@ -61,4 +61,5 @@ This website is a static clone created strictly for **educational and portfolio 
 
 *   **Ownership:** All intellectual property, branding, logos, design assets, and content are the exclusive property of **MOWJ Company**.
 *   **Purpose:** This repository serves solely to demonstrate frontend development and static site conversion skills. It is **not** intended for commercial use, redistribution, or to compete with the original brand.
+
 
